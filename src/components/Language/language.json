@@ -1,0 +1,239 @@
+[
+  {
+    "admin_panel": {
+      "name": "Admin Panel",
+      "cateogry": {
+        "name": "Categories",
+        "add_btn": "Add category",
+        "rodal": {
+          "name": "add category",
+          "title": "title",
+          "description": "description",
+          "active": "active",
+          "save_btn": "save",
+          "cansel": "cancel"
+        },
+        "delete_btn": "delete"
+      },
+      "product": {
+        "name": "Product",
+        "add_btn": "Add product",
+        "rodal": {
+          "name2": "Add product",
+          "product_name": "title",
+          "select_category": "select category",
+          "name": "name",
+          "description": "description",
+          "price": "price",
+          "active": "active",
+          "save_btn": "save",
+          "cansel": "cancel"
+        },
+        "delete_btn": "delete"
+      },
+      "home": "Home",
+      "users": "Users"
+    },
+    "home_js": {
+      "header": {
+        "name": "JobLink",
+        "cart_title": "Basket",
+        "dialog_close": "close",
+        "logout": "Log out",
+        "admin": "Admin",
+        "no": "Not available",
+        "top": {
+          "link": "send link",
+          "sms": "send SMS",
+          "save_btn": "Send",
+          "cansel": "Cancel",
+          "phone": "Phone"
+        }
+      },
+      "basket": {
+        "cart_title": "Shopping Cart",
+        "total_price": "all",
+        "remove_btn": "remove",
+        "empty_cart": "your cart is empty",
+        "user_information": "User information *",
+        "phone_input": "+998991234567",
+        "upload_photo": "upload photo",
+        "remove_photo": "delete photo",
+        "upload_description": "upload your store image",
+        "location_title": "choose location",
+        "buy_btn": "checkout",
+        "messages": {
+          "success": "your order has been sent to admin!",
+          "error": "something went wrong! \n try again later",
+          "within_uzb": "Please select a location within Uzbekistan."
+        }
+      },
+      "category": "Categories",
+      "search": "search product",
+      "search_btn": "search"
+    },
+    "SAVE": "available",
+    "title": "title",
+    "name": "name",
+    "price": "price",
+    "description": "description"
+  },
+  {
+    "admin_panel": {
+      "name": "Admin Paneli",
+      "cateogry": {
+        "name": "Kategoriyalar",
+        "add_btn": "Kategoriya qo'shish",
+        "rodal": {
+          "name2": "Kategoriyani qo'shish",
+          "title": "Nomi",
+          "description": "Tavsif",
+          "active": "Faol",
+          "save_btn": "Saqlash",
+          "cansel": "Bekor qilish"
+        },
+        "delete_btn": "O'chirish"
+      },
+      "product": {
+        "name": "Mahsulotlar",
+        "add_btn": "Mahsulot qo'shish",
+        "rodal": {
+          "name2": "Mahsulot qo'shish",
+          "select_category": "Kategoriyani tanlang",
+          "product_name": "nomi",
+          "title": "Nomi",
+          "description": "Tavsifi",
+          "price": "Narxi",
+          "active": "Faol",
+          "save_btn": "Saqlash",
+          "cansel": "Bekor qilish"
+        },
+        "delete_btn": "O'chirish"
+      },
+      "home": "Bosh sahifa",
+      "users": "Userlar"
+    },
+    "home_js": {
+      "header": {
+        "name": "JobLink",
+        "cart_title": "Savatcha",
+        "dialog_close": "yopish",
+        "logout": "Chiqish",
+        "admin": "Administrator",
+        "no": "Mavjud emas",
+        "top": {
+          "link": "link yuborish",
+          "sms": "sms yuborish",
+          "save_btn": "Yuborish",
+          "cansel": "Bekor qilish",
+          "phone": "Telefon"
+        }
+      },
+      "basket": {
+        "cart_title": "Xarid savati",
+        "total_price": "jami",
+        "remove_btn": "o'chirish",
+        "empty_cart": "savatingiz boʻsh",
+        "user_information": "Foydalanuvchi ma'lumotlari *",
+        "phone_input": "+998991234567",
+        "upload_photo": "rasm yuklash",
+        "upload_description": "do'kon rasmini yuklash",
+        "remove_photo": "o'chirish",
+        "location_title": "joylashuvni tanlash",
+        "buy_btn": "sotib olish",
+        "messages": {
+          "success": "Buyurtmangiz adminga yuborildi!",
+          "error": "nimadir noto'g'ri bajarildi! \n Keyinroq qayta urinib ko'ring",
+          "within_uzb": "Iltimos, Oʻzbekiston hududidagi joyni tanlang."
+        }
+      },
+      "category": "kategoriya",
+      "search": "mahsulot qidirish",
+      "search_btn": "qidirish"
+    },
+    "SAVE": "mavjud",
+    "title": "sarlavha",
+    "name": "ism",
+    "price": "narx",
+    "description": "tavsifi"
+  },
+  {
+    "admin_panel": {
+      "name": "Админ Панель",
+      "cateogry": {
+        "name": "Категории",
+        "add_btn": "Добавить категорию",
+        "rodal": {
+          "name": "Добавить категорию",
+          "title": "Название",
+          "description": "Описание",
+          "active": "Активный",
+          "save_btn": "Сохранить",
+          "cansel": "Отмена"
+        },
+        "delete_btn": "Удалить"
+      },
+      "product": {
+        "name": "Продукт",
+        "add_btn": "Добавить продукт",
+        "rodal": {
+          "name2": "Добавить продукт",
+          "select_category": "Выбрать категорию",
+          "product_name": "название",
+          "title": "Название",
+          "description": "Описание",
+          "price": "Цена",
+          "active": "Активный",
+          "save_btn": "Сохранить",
+          "cansel": "Отмена"
+        },
+        "delete_btn": "Удалить"
+      },
+      "home": "Главная",
+      "users": "пользователи"
+    },
+    "home_js": {
+      "header": {
+        "name": "JobLink",
+        "cart_title": "Корзина",
+        "dialog_close": "закрыть",
+        "logout": "Выйти",
+        "admin": "Администратор",
+        "no": "Недоступно",
+        "top": {
+          "link": "отправить ссылку",
+          "sms": "отправить SMS",
+          "save_btn": "Отправить",
+          "cansel": "Отмена",
+          "phone": "Телефон"
+        }
+      },
+      "basket": {
+        "cart_title": "Корзина",
+        "total_price": "общий",
+        "remove_btn": "удалить",
+        "empty_cart": "Ваша корзина пуста",
+        "user_information": "Информация пользователе *",
+        "phone_input": "+998991234567",
+        "upload_photo": "Загрузить фото",
+        "remove_photo": "удалить фото",
+        "upload_description": "загрузите изображение вашего магазина",
+        "location_title": "выбрать местоположение",
+        "buy_btn": "оформить заказ",
+        "messages": {
+          "success": "ваш заказ отправлен администратору!",
+          "error": "что-то пошло не так! \n повторите попытку позже",
+          "within_uzb": "Пожалуйста, выберите местоположение в Узбекистане."
+        }
+      },
+      "category": "категория",
+      "search": "поиск товаров",
+      "search_btn": "поиск"
+    },
+    "SAVE": "есть",
+    "title": "заголовок",
+    "name": "имя",
+    "price": "цена",
+    "description": "описание"
+  }
+]

@@ -1,0 +1,64 @@
+.card {
+    width: 14rem;
+    padding: 0.8rem;
+    text-align: center;
+    border-radius: .8rem;
+    background-color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.card__skeleton {
+    background-image: linear-gradient(
+            90deg,
+            #ccc 0px,
+            rgb(229 229 229 / 90%) 40px,
+            #ccc 80px
+    );
+    background-size: 300%;
+    background-position: 100% 0;
+    border-radius: inherit;
+    animation: shimmer 1.5s infinite;
+}
+
+.card__title {
+    height: 15px;
+    margin-top: 15px;
+}
+
+.btn {
+    height: 30px;
+    width: 12rem;
+    margin: 15px auto;
+}
+
+.card__description {
+    height: 100px;
+}
+
+@keyframes shimmer {
+    to {
+        background-position: -100% 0;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .card {
+        width: 90%;
+    }
+
+    .card__title {
+        height: 25px;
+        margin-top: 10px;
+    }
+
+    .btn {
+        height: 40px;
+        width: 80%;
+        margin: 15px auto;
+    }
+
+    .card__description {
+        height: 200px;
+    }
+
+}
